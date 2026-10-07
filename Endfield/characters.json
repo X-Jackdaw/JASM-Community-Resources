@@ -533,5 +533,57 @@
     "InGameSkins": [],
     "InternalName": "Typhoeus",
     "DisplayName": "Typhoeus"
+  },
+  {
+    "Keys": [
+      "purrchena"
+    ],
+    "ReleaseDate": "2026-09-24T00:00:00",
+    "Image": "Purrchena.webp",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Sword",
+    "Region": [
+      "TGCC"
+    ],
+    "ModFilesName": "Purrchena",
+    "InGameSkins": [],
+    "InternalName": "Purrchena",
+    "DisplayName": "Purrchena"
+  },
+  {
+    "Keys":[
+      "si"
+    ],
+    "ReleaseDate":"2026-10-15T00:00:00",
+    "Image":"Si.webp",
+    "Rarity":6,
+    "Element":"Cryo",
+    "Class":"GreatSword",
+    "Region":[
+      "HAS"
+    ],
+    "ModFilesName":"Si",
+    "InGameSkins":[],
+    "InternalName":"Si",
+    "DisplayName":"Si"
+  },
+  {
+    "Keys":[
+      "argentflow",
+      "argent_flow"
+    ],
+    "ReleaseDate":"2026-11-5T00:00:00",
+    "Image":"ArgentFlow.webp",
+    "Rarity":6,
+    "Element":"Electric",
+    "Class":"Sword",
+    "Region":[
+      "HAS"
+    ],
+    "ModFilesName":"ArgentFlow",
+    "InGameSkins":[],
+    "InternalName":"ArgentFlow",
+    "DisplayName":"Argent Flow"
   }
 ]
