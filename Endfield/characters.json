@@ -298,7 +298,7 @@
     "Element": "Electric",
     "Class": "Polearm",
     "Region": [
-      "TalosIIGeneralChamberOfCommerce"
+      "TGCC"
     ],
     "ModFilesName": "Avywenna",
     "InGameSkins": [],
@@ -349,7 +349,7 @@
     "Element": "Cryo",
     "Class": "Sword",
     "Region": [
-      "UnitedWorkersSyndicatesOfTalosII"
+      "UWST"
     ],
     "ModFilesName": "Alesh",
     "InGameSkins": [],
@@ -510,7 +510,7 @@
     "Element": "Electric",
     "Class": "Polearm",
     "Region": [
-      "TalosIIGeneralChamberOfCommerce"
+      "TGCC"
     ],
     "ModFilesName": "Liino",
     "InGameSkins": [],
